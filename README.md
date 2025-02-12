@@ -1,7 +1,13 @@
-# Explorer-Rescue-Robot-ICVSIP2023-
-
 # 🛠 Explorer Rescue Robot
   Explorer Rescue Robot is designed for search and rescue missions, enabling operators to explore hazardous environments and receive real-time data to assist in decision-making.
+
+## ⚙ Tech Stack
+
+- Arduino MEGA 2560 & Nano – Robot control system
+- LoRa SX1278 – Wireless data transmission
+- FPV Camera – Real-time surveillance in hazardous zones
+- PIR Motion Sensor & Gas Sensor (MQ-135) – Detect human presence and gas leaks
+- L298N Motor Driver – Controls motor movement
 
 ## Features
 
